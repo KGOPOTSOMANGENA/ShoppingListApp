@@ -116,6 +116,6 @@ const styles = StyleSheet.create({
     alignItems: 'center', justifyContent: 'center',
   },
   deleteBtn: { backgroundColor: '#FEF0F0' },
-  editIcon: { fontSize: 15, color: '#2980b9' },
+  editIcon: { fontSize: 15, color: '#297fb9ef' },
   deleteIcon: { fontSize: 14 },
 });
