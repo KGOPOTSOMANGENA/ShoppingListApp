@@ -136,7 +136,7 @@ const styles = StyleSheet.create({
   chipTextActive: { color: '#27ae60', fontWeight: '700' },
   inputRow: { flexDirection: 'row', gap: 8, alignItems: 'center' },
   input: {
-    backgroundColor: '#F2F4F6',
+    backgroundColor: '#f2f4f6d5',
     padding: 12,
     borderRadius: 12,
     fontSize: 15,
