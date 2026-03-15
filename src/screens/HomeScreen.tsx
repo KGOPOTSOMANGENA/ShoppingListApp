@@ -159,7 +159,7 @@ const styles = StyleSheet.create({
   filterCount: { backgroundColor: '#F2F4F6', width: 20, height: 20, borderRadius: 10, alignItems: 'center', justifyContent: 'center' },
   filterCountActive: { backgroundColor: 'rgba(255,255,255,0.3)' },
   filterCountText: { fontSize: 11, fontWeight: '700', color: '#718096' },
-  filterCountTextActive: { color: '#fff' },
+  filterCountTextActive: { color: '#ffffffbe' },
   listContent: { paddingBottom: 40 },
   emptyState: { alignItems: 'center', justifyContent: 'center', paddingTop: 60, paddingHorizontal: 32 },
   emptyIcon: { fontSize: 56, marginBottom: 16 },
